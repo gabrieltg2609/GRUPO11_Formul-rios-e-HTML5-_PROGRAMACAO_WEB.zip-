@@ -1,22 +1,41 @@
-CAMPUSLAB — GRUPO 11
-Projeto construído para o trabalho na disciplina Web Conding.
+## 📚 Sobre o projeto
 
-EXECUÇÃO: abra index.html em um navegador. Mantenha as pastas juntas.
-Sem instalação, JavaScript, frameworks, fontes externas ou banco de dados.
+Este projeto foi desenvolvido para a disciplina de Programação Web.
 
-ARQUIVOS
-index.html: oficinas e inscrição.
-css/style.css: identidade visual e responsividade compartilhadas.
-img/oficina.svg: esquema decorativo HTML/CSS.
-pages/avaliacao.html: avaliação com range.
-pages/confirmacao.html: destino estático dos dois formulários.
-pages/sobre.html: recursos, limites e referências.
-docs/: estudo e verificação.
+O site apresenta informações sobre oficinas de tecnologia voltadas para pessoas que estão dando os primeiros passos no desenvolvimento Web.
 
-IMPORTANTE
-Use dados fictícios. GET acrescenta dados à URL. Não há cadastro real.
-A página de confirmação não lê os parâmetros nem prova que houve envio.
-Os nomes das três oficinas foram definidos para concretizar o tema do PDF.
-Esta implementação nova não comprova os testes históricos relatados no PDF.
-Não foram adicionados scripts ou WebMCP, preservando a restrição de HTML/CSS.
-Consulte docs/ROTEIRO_DE_TESTES.md antes de registrar testes como aprovados.
+## 💻 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+## 📝 Funcionalidades
+
+- Página inicial com apresentação do projeto
+- Seção de oficinas de tecnologia
+- Formulário de inscrição
+- Formulário de avaliação
+- Seção sobre o projeto
+- Navegação entre as seções do site
+
+## 👥 Grupo
+
+**Grupo 11**
+
+Projeto desenvolvido pelos integrantes do grupo para a atividade acadêmica de Programação Web.
+-Vinicius Gomes
+-Gabriel Tavares
+-Julia Cayres
+-Vinicius Rodrigues
+-Cristiane Rayane
+
+## 🌐 Acesso ao site
+
+O projeto está disponível online através do GitHub Pages:
+
+****
+
+## 📅 Projeto acadêmico
+
+**Ano:** 2026  
+**Disciplina:** Programação Web
