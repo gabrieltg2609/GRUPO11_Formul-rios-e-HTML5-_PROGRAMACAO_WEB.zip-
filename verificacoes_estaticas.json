@@ -1,0 +1,37 @@
+{
+  "data": "2026-09-23",
+  "escopo": "Verificação estática da nova implementação; sem teste interativo em navegador.",
+  "paginas": [
+    {
+      "arquivo": "index.html",
+      "ids_rotulos_names_referencias_e_ausencia_scripts": "aprovados"
+    },
+    {
+      "arquivo": "pages/confirmacao.html",
+      "ids_rotulos_names_referencias_e_ausencia_scripts": "aprovados"
+    },
+    {
+      "arquivo": "pages/sobre.html",
+      "ids_rotulos_names_referencias_e_ausencia_scripts": "aprovados"
+    },
+    {
+      "arquivo": "pages/avaliacao.html",
+      "ids_rotulos_names_referencias_e_ausencia_scripts": "aprovados"
+    }
+  ],
+  "formularios": 2,
+  "tipos_input": [
+    "checkbox",
+    "color",
+    "date",
+    "email",
+    "number",
+    "radio",
+    "range",
+    "tel",
+    "text",
+    "time",
+    "url"
+  ],
+  "testes_interativos": "pendentes"
+}
